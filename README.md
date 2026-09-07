@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm neutron</h1>
+<h1 align="center"> Hello, I'm neutron</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Security+Researcher+%26+Bug+Hunter;Python+%26+Kotlin+Developer;IoT+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+###  About Me
 * 🛡️ **Security Research:** Active in bug bounty programs (Intigriti, Bugcrowd, HackerOne) and binary reverse engineering.
 * 🛠️ **Open Source:** Developing custom automation tools, endpoint scanners, and proxy utilities in Python.
 * 📱 **Mobile & IoT:** Building Android applications in Kotlin and working with ESP32 microcontrollers and sensors.
@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxqx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="xxqx's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxqx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nn0z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="xxqx's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn0z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
