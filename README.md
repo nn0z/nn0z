@@ -7,7 +7,7 @@
 
 ###  About Me
 * 🛡️ **Security Research:** Active in bug bounty programs (Intigriti, Bugcrowd, HackerOne) and binary reverse engineering.
-* 🧩 **Binary Analysis & CTFs:** Solving x86-64 Linux disassembly challenges, analyzing Java sandboxes, and automating constraints using Ghidra and Z3.
+* 🧩 **Binary Analysis :** Solving x86-64 Linux disassembly challenges, analyzing Java sandboxes, and automating constraints using Ghidra.
 * 🛠️ **Open Source & Automation:** Developing custom open-source Python utilities for security testing, endpoint discovery, and high-performance proxy routing.
 * 📱 **Mobile & AI Integration:** Building Android applications in Kotlin using Android Studio and integrating local AI coding assistants.
 * 🔌 **IoT & Hardware Design:** Constructing environmental monitoring solutions with ESP32 microcontrollers, I2C displays, and various sensors (DHT22, LDR, GPS) running custom C++ firmware.
