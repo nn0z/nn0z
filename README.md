@@ -13,7 +13,7 @@
 * ⚡ **IoT & Hardware Design:** Constructing environmental monitoring solutions with ESP32 microcontrollers, and various sensors.
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
