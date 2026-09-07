@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nn0z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="xxqx's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nn0z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="nn0z's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nn0z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxqx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nn0z&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -49,5 +49,5 @@
 * 💼 [LinkedIn](https://linkedin.com/in/your-username) *(Optional)*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xxqx&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nn0z&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
