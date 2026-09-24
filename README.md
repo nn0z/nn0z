@@ -1,4 +1,4 @@
-<h1 align="center">// neutron.env</h1>
+<h1 align="center">neutron.env</h1>
 
 ---
 
