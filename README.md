@@ -3,11 +3,11 @@
 ---
 
 ###  About Me
-* 🛡️ **Security Research:** Active in bug bounty programs (Intigriti, Bugcrowd, HackerOne) and binary reverse engineering.
-* 🧩 **Binary Analysis :** Solving x86-64 Linux disassembly challenges, analyzing Java sandboxes, and automating constraints.
-* 🛠️ **Open Source & Automation:** Developing custom open-source Python utilities for security testing, endpoint discovery.
-* 📱 **Mobile & AI Integration:** Building Android applications in Kotlin using Android Studio and integrating local AI coding assistants.
-* ⚡ **IoT & Hardware Design:** Constructing environmental monitoring solutions with ESP32 microcontrollers, and various sensors.
+*  **Security Research:** Active in bug bounty programs (Intigriti, Bugcrowd, HackerOne) and binary reverse engineering.
+*  **Binary Analysis :** Solving x86-64 Linux disassembly challenges, analyzing Java sandboxes, and automating constraints.
+*  **Open Source & Automation:** Developing custom open-source Python utilities for security testing, endpoint discovery.
+*  **Mobile & AI Integration:** Building Android applications in Kotlin using Android Studio and integrating local AI coding assistants.
+*  **IoT & Hardware Design:** Constructing environmental monitoring solutions with ESP32 microcontrollers, and various sensors.
 ---
 
 ###  Tech Stack & Tools
